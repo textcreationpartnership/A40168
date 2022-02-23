@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle from the people in scorn called Quakers to all people upon the earth to read over that they may see what the people called Quakers hold concerning God, Christ, his death, his resurrection, his blood, concerning his offering, redemption, salvation, justification, faith, and hope.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40168</idno>
+            <idno type="STC">Wing F1801</idno>
+            <idno type="STC">ESTC R26141</idno>
+            <idno type="EEBO-CITATION">09369733</idno>
+            <idno type="OCLC">ocm 09369733</idno>
+            <idno type="VID">42866</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40168)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42866)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1308:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle from the people in scorn called Quakers to all people upon the earth to read over that they may see what the people called Quakers hold concerning God, Christ, his death, his resurrection, his blood, concerning his offering, redemption, salvation, justification, faith, and hope.</title>
+                  <author>Fox, George, 1624-1691.</author>
+                  <author>Hookes, Ellis, d. 1681.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>l668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Postscript" signed: George Fox, Ellis Hookes.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42866:1"/>
+            <pb facs="tcp:42866:1" rendition="simple:additions"/>
+            <p>AN EPISTLE From the People in ſcorn called QUAKERS To all People upon the Earth, to read over; That they may ſee what the People called <hi>Q<g ref="char:V">Ʋ</g>AKERS</hi> hold
+<list>
+                  <item>Concerning <hi>God,</hi>
+                  </item>
+                  <item>Concerning <hi>Chriſt,</hi>
+                  </item>
+                  <item>Concerning <hi>His Death,</hi>
+                  </item>
+                  <item>Concerning <hi>His Reſurrection,</hi>
+                  </item>
+                  <item>Concerning <hi>His Blood,</hi>
+                  </item>
+                  <item>Concerning <hi>His Offering,</hi>
+                  </item>
+                  <item>Concerning <hi>Redemption,</hi>
+                  </item>
+                  <item>Concerning <hi>Salvation,</hi>
+                  </item>
+                  <item>Concerning <hi>Juſtification,</hi>
+                  </item>
+                  <item>Concerning <hi>Faith</hi> and <hi>Hope.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Printed in the Year, 1668.</p>
+            <pb facs="tcp:42866:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:42866:2"/>
+            <head>An Epiſtle to all People upon the Earth to read over, that they may ſee what the people called Quakers hold concerning God, Chriſt, <hi>&amp;c.</hi>
+            </head>
+            <p>ALL what is written of in the Law, the Prophets and the Goſpel in the new Teſtament, and before the Law con<g ref="char:EOLhyphen"/>cerning God, Chriſt, and his Birrh, and Miracles, and Suf<g ref="char:EOLhyphen"/>ferings, and his Reſurrection, we own; and all the Pro<g ref="char:EOLhyphen"/>miſes, as the firſt Promiſe, the Seed of the Woman ſhall bruiſe the Serpents head, which is Chriſt Jeſus; and how that he through death deſtroyed Death, and the power of death, the Devil; and how that Chriſt being the Prieſt made higher then the Heavens, af<g ref="char:EOLhyphen"/>ter the order of <hi>Melchiſedeck,</hi> ends the Levitical Prieſthood; and how that he by one offering offered himſelf once for all, ends all the <hi>Jews</hi> Offerings that were typical of him, (figures and ſhadows) and put down the Sacrifices; and Chriſt by his Blood which cleanſ<g ref="char:EOLhyphen"/>eth from all ſin, whoſe Blood was ſhed for all men, puts an end to the blood of Bulls and goats, which was to be offered and ſprink<g ref="char:EOLhyphen"/>led upon the <hi>Jews,</hi> which Blood of Chriſt every one muſt feel ſprinkling their Conſciences from dead works to ſerve the Living God; and alſo Chriſts Righteouſneſs, we own; who is the the Lord our Righteouſneſs, by which ſelf righteouſneſs, mans righteouſneſs, which is as filthy rags, is denied; and the righteouſ<g ref="char:EOLhyphen"/>neſs of the Law among the <hi>Iews,</hi> the Righteouſneſs of Chriſt ends: and people are to be ſaved by it; and not that people ſhould live in their ſins, and live in their own unrighteouſneſs, nor in the righteouſneſs of the works of the Law of the <hi>Iews;</hi> and not that People ſhould profeſs Chriſt, and live in their own unrighte<g ref="char:EOLhyphen"/>ouſneſs and ſins, and die in them; for Chriſt came to take away ſin, and to make an end of ſin and finiſh tranſgreſſion; and every
+<pb n="4" facs="tcp:42866:3"/>one that profeſſes Chriſt, and names his Name ſhould depart from iniquity, and not live in it; for none can call him Lord but by the holy Ghoſt: then how can people call him Lord by the un<g ref="char:EOLhyphen"/>clean ſpirit? and he that hath not the Spirit of Chriſt is none of his; and God ſo loved the Word that he gave his only begotten ſon into the World, that whoſoever believeth in him ſhould not periſh, but have everlaſting Life; and Chriſt is the Light of the World, and he doth enlighten every one that comes into the World, and ſaith, be<g ref="char:EOLhyphen"/>lieve in the Light, that you may become children of the Light: and the Faith of Gods Elect we own, which purifies the heart, and gives victory over the World, and acceſs to God, without which none can pleaſe God, which faith juſtifieth and ſanctifieth; and this Faith is the Gift of God: and Chriſt is our Hope which purifies as he is pure. And the holy Ghoſt we own according to the Scriptures, and there is three that bear record in Heaven, the Father, the Word and the Spirit, and theſe three are one; and there is three that bear record in the Earth, the Spirit, the Water, and the Blood, and theſe three agree in one; and Chriſt's Blood was ſhed for all men, and was the Offering not for our ſins only, but for the ſins of the whole World, who was crucified without the Gates at <hi>Ieru<g ref="char:EOLhyphen"/>ſalem,</hi> and was a propitiation not for our ſins only, but for the ſins of the whole World; ſo we are bought with a price, 1 <hi>Cor.</hi> 6.20. and we are to glorifie God with our bodies, ſouls, and our ſpirits, for they are Gods, 1 <hi>Cor.</hi> 7.23. we are bought with a price; and ſo all is to mind the Truth in the inward parts, the hidden man of the heart, which in the ſight of God is of great price, 1 <hi>Per.</hi> 1.19. And we are not redeemed with corruptable things, as Silver and Gold from a vain converſation, but with the precious Blood of Chriſt, as of a Lamb without blemiſh, and without ſpot; and ſo Chriſt hath purchaſed his Church with his own Blood, to preſent it to God without ſpot or wrinkle; and ſo Chriſt is King, Prophet and Prieſt; and ſo God was in Chriſt reconciling the World unto him<g ref="char:EOLhyphen"/>ſelf: And Chriſt who was in the form of God thought it no rob<g ref="char:EOLhyphen"/>bery to be equal with God, but made himſelf of no reputation, but took upon him the form of a Servant, and was formed in fa<g ref="char:EOLhyphen"/>ſhion of a man, he humbled himſelf, and became obedient unto the death, even the death of the Croſs, and therefore God hath highly exalted him, and given him a Name above every name, and
+<pb n="5" facs="tcp:42866:3"/>there is no Salvation by any other name under the whole Heaven, but the Name of Chriſt Jeſus. And ſo Chriſt Jeſus died and roſe again, 1 <hi>Theſ.</hi> 4.14. and 5.10. Chriſt who died for us, that whe<g ref="char:EOLhyphen"/>ther we wake or ſleep we ſhould live together with him, (who was dead and is alive, and lives for evermore) whoſe Garments he makes white with his Blood, 1 <hi>Cor.</hi> 15.3. how that Chriſt died for our ſins according to the Scriptures, and that he was buried, and that he roſe the third day according to the Scriptures, <hi>Rom.</hi> 5.6. In due time Chriſt died for the ungodly; and God hath ſet forth his Love towards us, that while we were yet Sinners Chriſt died for the ungodly, <hi>Rom.</hi> 14.9. To this end Chriſt both died and revived, that he might be Lord both of quick and dead, <hi>Rom</hi> 8.34. It is Chriſt that died, ye rather that is riſen again, who is alſo at the right hand of God making interceſſion for us.</p>
+            <p>And whereas many ſcandals have been caſt upon us, as that we deny Chriſt above the Stars, Sun, Moon and Elements.</p>
+            <p>To this we ſay, all Power in Heaven and Earth is given to Chriſt; if all Power in Heaven and Earth [Mark] be given unto him, then he muſt needs be above the Sun, Moon and Elements, and yet he will dwell in his people; for he aſcended far above all Heavens, that he might fill all things, <hi>Epheſ.</hi> 4.10.</p>
+            <p>The ſecond falſe Accuſation is that the Quakers denies God above the Elements, Sun, Moon and Stars.</p>
+            <p>
+               <hi>Anſw.</hi> God we own who is a Spirit, and to be worſhipped in Spi<g ref="char:EOLhyphen"/>rit and Truth, and Heaven is his Throne, and Earth is his Foot-ſtool, and he fills Heaven and Earth, and the Heaven of Heavens is not able to contain him, and he upholds all things by his Word and Pow<g ref="char:EOLhyphen"/>er, and is in all, through all, and above all, God bleſſed for ever; and ſo then he muſt needs be above the Sun, Moon, Stars and Ele<g ref="char:EOLhyphen"/>ments which are the works of his hands, he being Maker and Crea<g ref="char:EOLhyphen"/>tor of all things; and Chriſt who was with the Father before the World began, by whom all things were made and created, and this is the Word, and the Word was God, <hi>Iohn</hi> 1. And ſo we do know that the Son of God is come, and hath given us an un<g ref="char:EOLhyphen"/>derſtanding to know him which is true, and we are in him that is true, that is in his Son Jeſus Chriſt, this is the true God and Eter<g ref="char:EOLhyphen"/>nal
+<pb n="6" facs="tcp:42866:4"/>Life, <hi>Epheſ.</hi> 2.16. That Chriſt might reconcile both unto God in one body by the Blood, his Croſs, and ſlay Enmity thereby, and ſo making of twain one new man, and ſo making peace: And ſo people ought to walk in love, as Chriſt hath loved us, and given himſelf for us, to be an Offering, and a Sacrifice, a ſweet ſmelling ſavour to God: and ſo not another Goſpel do we preach but the Goſpel which is the Power of God unto Salvation to them that be<g ref="char:EOLhyphen"/>lieve, <hi>Rom.</hi> 1.16. and ſo through Chriſt Jeſus we come to God out of old <hi>Adam,</hi> and in Chriſt we pleaſe God; and Chriſt is our Mediator, who makes peace between us and God; and he is the new Covenant, the Covenant of Light to the <hi>Gentiles,</hi> and in this Covenant of Light all is to walk, which brings them out of the old Covenant which vaniſheth away, and through which Covenant we have peace with God in the Covenant of Light and Covenant of Life; and ſo Chriſt is our Rock, who is the Life which all muſt be built upon, and no other Foundation can any man lay, then what is laid already, Chriſt Jeſus who is the Foundation of the Prophets and Apoſtles; and for this purpoſe was the Son of God made ma<g ref="char:EOLhyphen"/>nifeſt to deſtroy the Devil (and his works) who led man from God; and ſo he is the Way to God to walk in, and as every one hath re<g ref="char:EOLhyphen"/>ceived Chriſt the Life, they muſt walk in him, and he is worthy of all honour and glory, who is the Lamb ſlain from the Foundation of the World: the Lamb muſt have the victory, Chriſt Jeſus the <hi>Ema<g ref="char:EOLhyphen"/>nuel,</hi> God with us, the Firſt begotten, full of Grace and Truth, whom all the Angels muſt worſhip; and as the Law came by <hi>Moſes,</hi> ſo Grace and Truth came by Jeſus Chriſt; and God will judge the World in Righteouſneſs by the man Chriſt Jeſus according to the Goſpel which is the Power of God, who would have all men to be ſaved, and to come to the knowledge of the Truth, who deſires not the death of a Sinner, but rather that he ſhould repent; for this the Lord binds with an oath; As I live, ſaith the Lord, I deſire not the death of a Sinner, but rather that he would repent and live, and often cries, Why will ye die? And whereas its ſaid the Quakers hold forth Free-will, we anſwer, no, for God worketh in us both to will and to do according to his good pleaſure; and we do know it is the Devil that worketh in people to will and to do that which diſ<g ref="char:EOLhyphen"/>honoureth God, <hi>Hebr.</hi> 9.14. Chriſt offered himſelf through the Eternal Spirit without ſpot to God, and by his Blood purges our
+<pb n="7" facs="tcp:42866:4"/>Conſciences from dead works to ſerve the Living God: and muſt not people come to feel his Blood in their Conſciences, and ſo come to eat his Fleſh, and drink his Blood? and except they eat his Fleſh, and drink his Blood they have no Life in him; and now God is writing his Law in peoples hearts, and putting it into their minds, by which all ſhall come to know the Lord from the greateſt to the leaſt, and ſhall not need to ſay to his Brother know the Lord; for the Knowledge of the Lord ſhall cover the Earth as waters cover the Sea: and ſo Chriſt is come to cleanſe from ſin, and to purge from ſin, and to make an end of ſin, and to deſtroy the Devil and his works, who bruiſes the Serpents head, and aboliſhes death, and brings in Life and Immortality to light through his Power the Goſ<g ref="char:EOLhyphen"/>pel: So not that people ſhould name Chriſts Name and live in ini<g ref="char:EOLhyphen"/>quity, and live in unrighteouſneſs and ſin, and ungodlineſs; but they ſhould live to Chriſt Jeſus, and walk in him; for did Chriſt die for Sinners that they ſhould live in ſin? nay, but that they ſhould be cleanſed from ſin, and their Garments made white in the Blood of the Lamb, and ſo come to be heirs of Chriſt and Salvation, and to ſit down in the Heavenly places in Chriſt Jeſus, and not ſit down in the old <hi>Adam.</hi> And true belief, is it not to believe in the true Light, as Chriſt commands, and ſo to become Children of the Light, and of the Day, and not children of Darkneſs? and ſo he that believes is born of God, and he that is born of God overcomes the World, for greater is he that is in them, then he that is in the World; ſo the greater overcomes the leſs: and ſo he that believes paſſeth from Death to Life, and he that hates his Brother abideth in Death, and what kind of belief is that? and he that envies his Brother is a Manſlayer, and no Manſlayer hath Eternal Life abiding in him; and therefore Chriſt commands you Chriſtians ſhould love one another, and love Enemies, which was a mark they were Diſciples of Chriſt; and he that ſaith he loveth God which he never ſaw, and hateth his brother which he hath ſeen, what ſaith the Scriptures of ſuch a one? And he that ſaith he knoweth God and Chriſt, and keeps not his Commandments is a Lyar, 1 <hi>Iohn</hi> 2.4. but he that keeps his Word, in him is the Love of God perfect, which he that doth not keep the Word, the Love of God is not perfect in him; and ſo we know that Chriſt by one offering hath for ever perfected
+<pb n="8" facs="tcp:42866:5"/>them that are Sanctified: and ſo all people to mind the Grace of God which brings Salvation, that hath appeared to all men, which teaches the Saints, and eſtabliſhes their hearts, and ſeaſons their words, and teaches them to live godly and ſoberly in this evil preſent World, and to deny ungodlineſs, unrighteouſneſs, and and the luſts of the World; and the Spirit of God is given to every man to profit withal; and the Lord gave his good Spirit (<hi>Neh.</hi> 9.) to people, yet they rebelled againſt it, and ſo they quenched the Spirit, and vext it, and grieved it by yeelding to the evil ſpirit and its work, ſo his Servants they are whom they do obey; and Chriſt is the true Light who enlightens every man that comes into the World; one loves the Light, and the other hates it, and he hates it becauſe his deeds are evil, and will not come to it, becauſe it re<g ref="char:EOLhyphen"/>proves him; and this is the condemnation that Light is come into the World, and men love Darkneſs more then the Light, becauſe their deeds be evil; and they that love the Light bring their deeds to it, that with the Light they may ſee that their deeds be wrought in God; and ſo as people walks in the Light, as he is in the Light, they have fellowſhip one with another, and the Blood of Chriſt clenſeth them from all ſin; and ſo with the Light they ſee the Blood, and him that cleanſeth them. And the Spirit of Truth which leads into all Truth is come according to Chriſts Promiſe, and this Spirit reproves the World of ſin, of righteouſneſs and unbelief, and of judgment; and God hath poured forth his Spirit upon all Fleſh, and his Sons and Daughters do propheſie, and young men ſhall ſee viſions, and old men ſhall dream dreams, and upon his Handmaids and Servants he will pour out of his Spirit, and ſo every one ſhall have ſomething whereby they may have a ſenſe of God, the Word being ſown upon all grounds: and Chriſt where he ſpeaks of his Talents, ſpeaks of a meaſure given to every one according to his ability. So as it is ſaid in <hi>Hebr.</hi> 1.8. and to the Son he ſaith, Thy Throne, O God, is for ever and ever; a Scepter of Righteouſneſs is the Scepter of thy Kingdom: thou haſt loved Righteouſneſs, and hated Iniquity; wherefore God, even thy God hath anointed thee with oyl of gladneſs above thy Fellows. And ſo [mark] the Fruit of Righteouſneſs is ſowed in peace of them that make peace, <hi>James</hi> 3. and ſuch as are heirs of this Righteouſ<g ref="char:EOLhyphen"/>neſs,
+<pb n="9" facs="tcp:42866:5"/>are heirs of Chriſt, the Righteouſneſs it ſelf: And Chriſt who his own ſelf bare our ſins in his body on the Tree, that we be<g ref="char:EOLhyphen"/>ing delivered from ſin ſhould live in righteouſneſs, by whoſe ſtripes you are healed: ſo it is plain, people, you ſhould not live in unrigh<g ref="char:EOLhyphen"/>teouſneſs; and its clear through the Righteouſneſs of our God and Saviour Jeſus Chriſt we have obtained the precious Faith, 2 <hi>Pet.</hi> 1.1. and 1 <hi>Iohn,</hi> 2.29. Every one that doth righteouſneſs is born of God: and 1 <hi>Iohn</hi> 3.7. he that doth righteouſneſs is righteous, even as he is righteous, little children let no man deceive you: and who<g ref="char:EOLhyphen"/>ſoever doth not righteouſneſs is not of God, neither he that loveth not his brother, verſe 10. 2 <hi>Cor.</hi> 2.15. all that profeſs themſelves Chriſtians ought to be a ſweet ſavour, For we are unto God a ſweet ſavour of Chriſt in them that are ſaved, and in them that periſh. <hi>Epheſ.</hi> 5.2. And people ought to walk in love, even as Chriſt hath loved us, and hath given himſelf for us an Offering and a Sacrifice of a ſweet ſmelling ſavour to God. And we have ſeen and do teſtifie that the Father ſent the Son to be the Saviour of the World, 1 <hi>Iohn</hi> 4.14. And ſo to the only Wiſe God our Saviour be glory and majeſty, dominion and power, both now and for ever, Amen, <hi>Jude</hi> verſ. 25. and he is able to keep us faultleſs before the Pre<g ref="char:EOLhyphen"/>ſence of his Glory with joy. And we being juſtified by the Blood of Chriſt, we ſhall be ſaved from wrath through him, <hi>Rom.</hi> 5.9.10. For when we were Enemies we were reconciled to God by the death of his Son; much more being reconciled we ſhall be ſaved by his Life: And the God of our Fathers hath raiſed up Jeſus whom the <hi>Iews</hi> ſlew, and hanged on a Tree, him hath God raiſed up by his right hand, to be a Prince and a Saviour, and who is a Prophet like unto <hi>Moſes,</hi> whom all muſt hear; and this is my beloved Son hear ye him: and learn of me, ſaith Chriſt; and God hath anoint<g ref="char:EOLhyphen"/>ed him to preach, to bind up the broken-hearted, &amp;c. And ſo that people ſhould live in all godlineſs and honeſty, and lead a peaceable life, this is acceptable in the ſight of God our Saviour, 1 <hi>Tim.</hi> 2. And wherefore was, and is, there hatred againſt the true Chriſti<g ref="char:EOLhyphen"/>ans, but becauſe they truſted in the Living God? who is the Savi<g ref="char:EOLhyphen"/>our of all men, eſpecially of thoſe that believe: and Chriſt came not to deſtroy men lives, but to ſave them, 1 <hi>Tim:</hi> 4.10. <hi>Hebr.</hi> 7. Chriſt is able to ſave to the uttermoſt all that come unto God by
+<pb n="10" facs="tcp:42866:6"/>him 1 <hi>Tim.</hi> 1.15. This is a true ſaying, and worthy of all accep<g ref="char:EOLhyphen"/>tation, that Jeſus Chriſt is come into the World to ſave Sinners, of whom I am chief, <hi>Gal.</hi> 3.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>3. Chriſt hath redeemed us from the curſe of the Law, being made a curſe for us, <hi>Rev.</hi> 5.19. and Chriſt hath redeemed us to God by his Blood; and ſo we know that we are not redeemed by corruptible things from our vain conver<g ref="char:EOLhyphen"/>ſation, but with the precious Blood of Chriſt; therefore people are not to live in their vain converſation, that are redeemed. And therefore people are to redeem the time becauſe the dayes are evil; and be not unwiſe, but underſtand what the Will of God is, <hi>Col.</hi> 4.5. we are of him in Chriſt, Jeſus who of God is made unto us Wiſ<g ref="char:EOLhyphen"/>dom, and Righteouſneſs, Sanctification and Redemption, 1 <hi>Cor.</hi> 1.30. and we are juſtified freely by his Grace, through the Re<g ref="char:EOLhyphen"/>demption that is in Chriſt Jeſus, <hi>Rom.</hi> 3.14. and Chriſt gave himſelf for us, that he might redeem us from all iniquity, and purge us to be a peculiar people unto himſelf, zealous of good works; and ſo not that people ſhould live in iniquity and bad works, <hi>Col.</hi> 1.20, and God by Chriſt reconciled all things to himſelf, to ſet at peace thorow the Blood of his Croſs, both of things in Earth, and things in Heaven; therefore all people is to mind this reconci<g ref="char:EOLhyphen"/>liation, <hi>Hebr.</hi> 2.17. wherefore in all things it became Chriſt to be made like unto his Brethren, that he might be a mercifull and faithfull High Prieſt in things pertaining to God, that he might make reconciliation for the ſins of the people: ſo this is not that people ſhould live in their ſins, and unrighteouſneſs, and ungodli<g ref="char:EOLhyphen"/>neſs, to diſhonour God: For if you ſhould redeem a man from <hi>Turkey,</hi> from being a Slave, would it not grieve you for that man to go into <hi>Turkey</hi> to be a Slave again, after you have paid a great Ranſom for him? ſo Chriſt redeeming people from ſin and iniquity, from unrighteouſneſs, which is from the ſlavery of the Devil, by his Blood, and Death, and Offering, and this is Gods Love to Mankind thorow Chriſt Jeſus: and doth he redeem from iniquity, ungodlineſs, ſin and evil, that they ſhould go into it again, and ſo into ſlavery? will not this grieve God and Chriſt? and will he not render vengeance in flames of Fire upon all them that doth not obey the Goſpel of Chriſt? and what will become of them that holds Truth in their ungodly and unrighteous minds, that is, the
+<pb n="11" facs="tcp:42866:6"/>truths of God, and the truths of Chriſt, and the truths of the Por<g ref="char:EOLhyphen"/>phets and Apoſtles? So, all People, the Scriptures were given forth to be read, believed, and fulfilled, and not to make a trade of, and to keep people alwayes teaching of them, that they may be always paying of them; and to make merchandize neither of people, nor them; ſo it is the Spirit of Truth that muſt lead you into all Truth of them; for they were given forth by holy men, as they were moved by the holy Ghoſt; and the ſame holy Ghoſt muſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead you into all Truth of them: and ſo they are profitable for re<g ref="char:EOLhyphen"/>proof and for inſtruction, and for correction, in righteouſneſs: and unto them alſo that are contentious, and diſobey the Truth, but obey unrighteouſneſs, ſhall be indignation and wrath, tribulation and anguiſh upon the Souls of every man that doth evil; upon the <hi>Iews</hi> firſt, and alſo upon the <hi>Gentiles:</hi> but glory, honour and peace ſhall be to every man that doth good; to the <hi>Iew</hi> firſt, and alſo to the <hi>Gentile.</hi>
+            </p>
+            <closer>
+               <signed>George Fox. Ellis Hookes.</signed>
+            </closer>
+            <postscript>
+               <head>Poſtſcript.</head>
+               <p>ANd this is to clear us from all thoſe Pamphlets which are ſpread and ſcattered up and down among people, that we ſhould deny the God-head, his Eternal Power, or his Offering, or Blood; or that we ſhould not he bought with a Price; <hi>For is pleaſed the Fa<g ref="char:EOLhyphen"/>ther, that in him the Fulneſs of the God-head ſhould dwell bodily;</hi> and the Father, and the Son, and the Spirit, we do own. And ſo let all them ſtop their Mouthes, that ſay the Quakers Principles are hid till now; for we have manifeſted our Principles, both in our printed Books; and would that all People knew our Inſide, as they did know our Outſide; and we do know (and alſo others know it) that we have an eſteem of Chriſt's Sufferings, and Death, and Blood, and the Scriptures of the Prophets and Apoſtles more then any other people; for we do know that they were all Sufferers for ſpeaking forth the Scriptures.</p>
+            </postscript>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
